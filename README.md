@@ -1,2 +1,2 @@
 # Login-Form 
-https://github.io.AyushiSoni2107/Login-Form/
+https://AyushiSoni2107.github.io/Login-Form/
